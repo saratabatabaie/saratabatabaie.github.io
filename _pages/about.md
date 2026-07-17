@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Associate Teaching Professor, Environmental Design (ENVD), <a href="https://www.colorado.edu/cmdi/sara-tabatabaie">University of Colorado Boulder</a></strong>
+subtitle: <a href="https://www.colorado.edu/cmdi/sara-tabatabaie"><strong>Associate Teaching Professor, Environmental Design (ENVD), University of Colorado Boulder</strong></a>
 profile:
   align: right
   image: Headshot.jpg
