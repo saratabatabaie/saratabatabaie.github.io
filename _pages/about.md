@@ -24,6 +24,6 @@ latest_posts:
 <br><br>
 <div style="font-size: 0.9rem;">
 I am an environmental designer, educator, and researcher interested in how design can improve both human and environmental health. My work brings together environmental assessment, landscape architecture, urban planning, public health, and ecology to explore how cities can become greener, healthier, and more resilient. At the University of Colorado Boulder, I teach design studios and conduct community-engaged research that connects ideas with practice.
-
+<br>
 My current research centers on shade, sun safety and heat mitigation: how cities can measure, assess, and design around them. Over the past several years, I have completed multiple projects on shade assessment and the development of shade design guidelines, sponsored by the Colorado Department of Public Health and Environment (CDPHE). 
 </div>
