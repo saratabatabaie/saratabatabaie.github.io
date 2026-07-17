@@ -27,10 +27,3 @@ I am an environmental designer, educator, and researcher interested in how desig
 <br><br>
 My current research centers on shade, sun safety and heat mitigation: how cities can measure, assess, and design around them. Over the past several years, I have completed multiple projects on shade assessment and the development of shade design guidelines, sponsored by the Colorado Department of Public Health and Environment (CDPHE). 
 </div>
-
-
-# mapping
-
-As an urban planner and environmental analyst, mapping plays a central role in my work, helping translate spatial data into insights that inform design, policy, and community engagement. Below is an example of a map I recently created as part of the ESIIL short course, built using OpenStreetMap data.
-
-<iframe src="{{ '/assets/img/cu_map1.html' | relative_url }}" width="100%" height="650px" style="border: none;"></iframe>
