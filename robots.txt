@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://saratabatabaie.github.io/Portfolio_new/sitemap.xml
+Sitemap: https://saratabatabaie.github.io/sitemap.xml
